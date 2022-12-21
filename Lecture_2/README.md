@@ -50,6 +50,6 @@ can try with edge detection then find corners ?
     2. Use Machine Learning to train a classifier
     3. Evaluate the classifier on new images
 
-    
+
 
 
